@@ -1,0 +1,85 @@
+<section id="footer">
+        <div class="container">
+            
+               
+                    <div class="footer_heading">
+                        <h4>contact us</h4>
+                        <p>Don’t be shy, drop us an email and say hello! We are a really nice bunch of people:&#41;</p>
+                    </div>
+                    <div class="footer_main d-flex">
+                        <div class="footer_left">
+                            <div class="footer_content">
+                                <div class="footer_icon">
+                                    <img src="images/footer01.png" alt="icon">
+                                    <p>(416) 555-0000</p>
+                                </div>
+                            </div>
+                            <div class="footer_content">
+                                <div class="footer_icon">
+                                    <img src="images/footer02.png" alt="icon">
+                                    <p>@dreams</p>
+                                </div>
+                            </div>
+                            <div class="footer_content">
+                                <div class="footer_icon">
+                                    <img src="images/footer03.png" alt="icon">
+                                    <p>plus.com/dreams</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="footer_right">
+                            <div class="footer_right_content">
+                                <div class="footer_content">
+                                    <div class="footer_icon">
+                                        <img src="images/footer04.png" alt="icon">
+                                        <p> hello@dreams.com</p>
+                                    </div>
+                                </div>
+                                <div class="footer_content">
+                                    <div class="footer_icon">
+                                        <img src="images/footer05.png" alt="icon">
+                                        <p>facebook.com/dreams</p>
+                                    </div>
+                                </div>
+                                <div class="footer_content">
+                                    <div class="footer_icon">
+                                        <img src="images/footer06.png" alt="icon">
+                                        <p>pinterest.com/dreams </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+            
+                <div class="col-lg-6">
+                    <form>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Your Name*" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" placeholder="Your Email*" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" rows="6" placeholder="Your Massege*" required></textarea>
+                        </div>
+                        <button type="submit" class="footer_button">send messege</button>
+                    </form>
+                </div>
+            
+            <div class="bottom_border text-center">
+                <img src="images/bottom_border.jpg" alt="border">
+            </div>
+        </div>
+    </section>
+    <!--footer  area end-->
+    
+    <!--copyright area start-->
+    <section id="copyright">
+        <div class="container">
+            <div class="copyright_content text-center">
+                <p>© 2014 Dreams By FreebiesXpress</p>
+            </div>
+        </div>
+    </section>
+    <!--copyright area end-->
